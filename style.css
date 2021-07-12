@@ -2,15 +2,30 @@ body {
     background-color: rgba(161, 73, 107, 0.822);
 }
 
-h3 {
+
+h1 {
     text-align: center;
+    margin-top: 30px;
 }
 
 .FibonacciBtn {
     margin-left: 49%;
+    font-size: large;
+}
+
+.FibonacciBtn2 {
+    margin-left: 49%;
+    margin-top: 25px;
+    font-size: large;
 }
 
 .fibonacci {
     margin-left: 44%;
     margin-top: 20px;
+}
+
+.BtnGoFibonacci {
+    margin-left: 47%;
+    margin-top: 25px;
+    font-size: larger;
 }
