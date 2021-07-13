@@ -32,6 +32,11 @@ h1 {
     margin-top: 25px;
     font-size: larger;
 }
+.BtnGoSliderCSS {
+    margin-left: 47%;
+    margin-top: 25px;
+    font-size: larger;
+}
 
 .slider {
     display: flex;
